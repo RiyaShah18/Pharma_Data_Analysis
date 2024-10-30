@@ -22,4 +22,4 @@ The business-critical data exploration and analysis conducted using Microsoft SQ
 -Evaluation of total revenue by sales teams over the four-year period.
 -Growth analysis of managers' performance on a year-over-year basis.
 
-This comprehensive analysis offers valuable insights into the company's sales trends, product distribution, and employee performance
+This comprehensive analysis offers valuable insights into the company's sales trends, product distribution, and employee performance.
