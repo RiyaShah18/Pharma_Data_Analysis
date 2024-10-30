@@ -3,8 +3,8 @@ A dynamic Power BI report has been prepared to visualize the extensive analysis,
 
 The business-critical data exploration and analysis conducted using Microsoft SQL Server covers the following:
 
-*Sales and Growth Analysis*:
--Year-over-year sales growth.
+**Sales and Growth Analysis**:
+*Year-over-year sales growth.
 -Monthly trends to identify periods with the lowest sales.
 -Ranking of top 5 cities by sales revenue.
 
